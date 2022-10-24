@@ -1,6 +1,8 @@
-console.log("Halo ")
+let nama = "Rifian"
 
-const testing = (name) => console.log('hello, my name is ${name}')
+console.log("Halo "+nama)
 
-module.exports = {testing}
+// const testing = (name) => console.log('hello, my name is ${name}')
+
+// module.exports = {testing}
 
