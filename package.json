@@ -3,6 +3,7 @@
     "version": "1.13.0",
     "main": "index.js",
     "files": [
-        "index.js"
+        "index.js",
+        "publish.yml"
     ]
 }
